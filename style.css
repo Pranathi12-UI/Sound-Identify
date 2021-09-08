@@ -1,0 +1,42 @@
+body {
+    background: url(https://www.innovationnewsnetwork.com/wp-content/uploads/2021/02/Primordial-galaxy-696x392.jpg);
+    background-size: cover;
+    font-family: 'Just Another Hand', cursive;
+    letter-spacing: 5px;
+    font-size: 30px;
+}
+
+.header_div {
+    color: white;
+    background: #560bad;
+}
+
+.header_div p {
+    font-size: 20px;
+}
+
+.main_div button {
+    font-family: 'Kaisei Tokumin', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    font-size: 25px;
+    background-color: #560bad;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #c77dff;
+}
+
+h3,
+h4 {
+    color: white;
+    font-size: 25px;
+}
